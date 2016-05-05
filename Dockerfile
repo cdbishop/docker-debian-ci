@@ -1,4 +1,4 @@
-FROM vcatechnology/debian:latest
+FROM vcatechnology/debian:8
 MAINTAINER VCA Technology <developers@vcatechnology.com>
 
 # Install useful packages
